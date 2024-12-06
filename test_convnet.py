@@ -1,16 +1,3 @@
-"""
-Title: Simple MNIST convnet
-Author: [fchollet](https://twitter.com/fchollet)
-Date created: 2015/06/19
-Last modified: 2020/04/21
-Description: A simple convnet that achieves ~99% test accuracy on MNIST.
-Accelerator: GPU
-"""
-
-"""
-## Setup
-"""
-
 import numpy as np
 import keras
 from keras import layers
